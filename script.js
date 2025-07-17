@@ -487,7 +487,7 @@ const aiToolsData = {
             id: 1701,
             name: "RoomsGPT",
             description: "AI interior designer for rooms, homes and gardens",
-            url: "https://roomsgpt.net/",
+            url: "https://www.roomsgpt.io/",
             imageUrl: "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=400&h=300&fit=crop",
             categoryId: 17,
             tags: ["interior", "design", "rooms", "garden", "ai", "virtual"],
