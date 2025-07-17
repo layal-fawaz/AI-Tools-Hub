@@ -1622,7 +1622,7 @@ const aiToolsData = {
             id: 202,
             name: "Lara Translate",
             description: "AI translation tool.",
-            url: "https://laratranslate.com/",
+            url: "https://laratranslate.com/translate",
             imageUrl: "https://www.svgrepo.com/show/324210/language-translation.svg",
             categoryId: 11,
             tags: ["translation", "ai", "lara"],
