@@ -24,7 +24,7 @@ The AI tools in this platform are categorized into the following sections:
   - General Programming Tools  
   - Front-End Development Tools  
   - Flutter Development Tools  
-  - Testing and QA Tools  and more ..
+  - Testing and QA Tools  
 - 🖼️ Image Generation and Editing – Tools for creating and editing images (14 tools)  
 - 📢 Marketing and Plans – Tools for marketing strategy and content planning (17 tools)  
 - 📚 Research and Knowledge – Tools for research and knowledge management (9 tools)  
@@ -49,7 +49,7 @@ The AI tools in this platform are categorized into the following sections:
 ## 🤖 Chatbot Support
 
 An AI-powered chatbot was integrated into the platform to answer user inquiries and guide them while browsing the tools.  
-Tool used: Chatbase
+Tool used: [Chatbase](https://www.chatbase.co/)
 
 ## 🔌 Tools & APIs Used
 
@@ -60,5 +60,3 @@ Tool used: Chatbase
 ## 📌 Notes
 
 Future enhancements may include saving favorite tools, adding user reviews, or an admin dashboard for content management.
-
-
