@@ -21,11 +21,17 @@ The AI tools in this platform are categorized into the following sections:
 - 🎥 Video Tools – AI-powered video editing and creation tools (17 tools)  
 - 🎧 Audio Tools – Audio production and editing (10 tools)  
 - 💻 Technical Tools – Subdivided into:  
-  - General Programming Tools  
-  - Front-End Development Tools  
-  - Flutter Development Tools  
-  - Testing and QA Tools  
-- 🖼️ Image Generation and Editing – Tools for creating and editing images (14 tools)  
+- Programming  
+- Mobile Development  
+- Database  
+- Front-end  
+- UX/UI  
+- WordPress  
+- Testing & QA  
+- Game Development  
+- Cyber Security Tools  
+- Automation  
+- Data Science & Business Analysis  - 🖼️ Image Generation and Editing – Tools for creating and editing images (14 tools)  
 - 📢 Marketing and Plans – Tools for marketing strategy and content planning (17 tools)  
 - 📚 Research and Knowledge – Tools for research and knowledge management (9 tools)  
 - 🏢 Business Management – Business operations and automation tools (9 tools)  
