@@ -31,7 +31,8 @@ The AI tools in this platform are categorized into the following sections:
   - Game Development  
   - Cyber Security Tools  
   - Automation  
-- Data Science & Business Analysis  - 🖼️ Image Generation and Editing – Tools for creating and editing images (14 tools)  
+- Data Science & Business Analysis
+- 🖼️ Image Generation and Editing – Tools for creating and editing images (14 tools)  
 - 📢 Marketing and Plans – Tools for marketing strategy and content planning (17 tools)  
 - 📚 Research and Knowledge – Tools for research and knowledge management (9 tools)  
 - 🏢 Business Management – Business operations and automation tools (9 tools)  
